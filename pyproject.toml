@@ -5,6 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "clangd>=20.1.5",
-    "clangd-tidy>=1.1.0.post2",
+    "clangd==20.1.5",
+    "clangd-tidy==1.1.0.post2",
 ]
